@@ -55,3 +55,7 @@ time_elapsed=time.time()-s_time
 print "\nCongrats You have finished the game"
 print "\nTime taken is "+str(time_elapsed)
 raw_input()
+
+'''
+no modifications required. :>	
+'''
